@@ -2,5 +2,5 @@
 
 ## C# Developer
 
-Tech Module, 
-C# Advanced
+Tech Module - Programming Fundamentals, Software Technologies, 
+C# Advanced - C# Fundamentals, OOP Basics, OOP Advanced
