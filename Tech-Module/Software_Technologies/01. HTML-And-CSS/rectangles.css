@@ -1,0 +1,21 @@
+#blue {
+     border: 4px dashed #0000FF;
+     border-radius: 8px;
+     text-align: center;
+     padding: 20px;
+     width: 30%;
+ }
+#red {
+     border: 4px dotted #FE0303;
+     border-radius: 8px;
+     text-align: center;
+     padding: 20px;
+     width: auto;
+ }
+#green {
+    border: 3px solid #007D00;
+    border-radius: 8px;
+    text-align: center;
+    padding: 20px;
+    width: auto;
+}

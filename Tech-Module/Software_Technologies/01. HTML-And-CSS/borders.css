@@ -1,0 +1,29 @@
+#redBorder {
+    border-radius: 8px;
+    background: #D3D3D3;
+    padding: 8px 30px;
+    font-size:25px;
+    border:4px solid #FE0303;
+    width: 20%;
+    text-align: center;
+}
+
+#greenBorder {
+     border-radius: 8px;
+     background: #D3D3D3;
+     padding: 8px 30px;
+     font-size:25px;
+     border:4px solid #007D00;
+     width: 20%;
+     text-align: center;
+ }
+
+#blueBorder {
+    border-radius: 8px;
+    background: #D3D3D3;
+    padding: 8px 30px;
+    font-size:25px;
+    border:4px solid #0000FF;
+    width: 20%;
+    text-align: center;
+}
